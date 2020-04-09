@@ -3,7 +3,7 @@ Neat Status Line
 
 [![endorse](https://api.coderwall.com/luke/endorsecount.png)](https://coderwall.com/luke)
 
-Yet another status line plugin. The aim of Neat Status is to provide neat, and 
+Yet another status line plugin. The aim of Neat Status is to provide neat, and
 simple UI with just basic information and no bells and whistles for those users
 who consider things like Powerline to be overkill.
 
@@ -83,7 +83,7 @@ a quick example that shows you hot to redefine the insert mode colors:
 
 Note that these only affect the small boxes created by NeatStatus. Your status line will remain
 the default color as per your color scheme. This works very well if you also happen to use the
-Obvious-Mode plugin. 
+Obvious-Mode plugin.
 
 If you want to style your status line, you can do it in your `.vimrc` normally using the `hi StatusLine`
 and `hi StatusLineNC` commands.
